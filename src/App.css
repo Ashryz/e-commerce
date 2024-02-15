@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,32 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.bg_dark {
+  background-color: #222;
+  color: #fff;
+}
+
+.bg_light {
+  background: #fff;
+  
+}
+
+.card {
+  transition: all 0.5s ease;
+}
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 5px 5px 10px;
+}
+.slider-container div
+{
+ 
+    transition: all 0.5s ease;
+  
+}
+.slider-container div:hover{
+  transform: scale(1.05);
+
 }

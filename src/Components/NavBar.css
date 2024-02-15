@@ -1,0 +1,11 @@
+.navlink {
+    text-decoration: none;
+    padding-inline: 7px;
+    color: inherit;
+    font-weight: 400;
+    
+}
+
+.navlink.active {
+    font-weight: 700;
+}
